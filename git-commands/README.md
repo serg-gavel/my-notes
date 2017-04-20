@@ -1,5 +1,5 @@
+###### [`Вернуться назад к выбору директорий`](https://github.com/serg-gavel/my-notes)
 ## Команды для Git                                                                      
-##### [`Вернуться назад к выбору директорий`](https://github.com/serg-gavel/my-notes)
 ##### Содержание:    
 [Клонирование и создание репозиториев](#init-clone)  
 [Основные команды Git](#basic-commands)  
