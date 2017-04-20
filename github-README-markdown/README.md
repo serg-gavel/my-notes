@@ -1,6 +1,5 @@
 ###### [`Вернуться назад к выбору директорий`](https://github.com/serg-gavel/my-notes)
-Мануал по `Разметке страницы`
----------------------
+![alt-текст](https://github.com/serg-gavel/my-notes/blob/master/github-README-markdown/markdown.jpg "git-markdown.jpg")
 
 ##### Содержание  
 [Заголовки](#headers)  
