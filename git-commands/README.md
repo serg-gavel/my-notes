@@ -1,5 +1,5 @@
 ###### [`Вернуться назад к выбору директорий`](https://github.com/serg-gavel/my-notes)
-## Команды для Git                                                                      
+![alt-текст](https://github.com/serg-gavel/my-notes/blob/master/git-commands/git-commands.jpg "git-commands.jpg")
 ##### Содержание:    
 [Клонирование и создание репозиториев](#init-clone)  
 [Основные команды Git](#basic-commands)  
