@@ -1,4 +1,4 @@
-###### [`Вернуться назад к выбору директорий`](https://github.com/serg-gavel/my-notes)
+###### [`Вернуться назад к выбору директории`](https://github.com/serg-gavel/my-notes)
 ![alt-текст](https://github.com/serg-gavel/my-notes/blob/master/markdown/markdown.jpg "git-markdown.jpg")
 
 ##### Содержание:  
