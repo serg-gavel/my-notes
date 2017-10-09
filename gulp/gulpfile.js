@@ -1,6 +1,6 @@
-//npm init
-//gulp: npm i -g gulp
-//      npm i gulp --save-dev
+//               npm init
+//gulp:          npm i -g gulp
+//               npm i gulp --save-dev
 // minify HTML:  npm i gulp-html-minify --save-dev
 // minify CSS:   npm i --save-dev gulp-cssmin
 // minify JS:    npm i --save-dev gulp-minify
