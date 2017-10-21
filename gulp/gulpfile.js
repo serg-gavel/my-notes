@@ -1,12 +1,12 @@
-//               npm init
 //gulp:          npm i -g gulp
 //               npm i gulp --save-dev
 // minify HTML:  npm i gulp-html-minify --save-dev
-// minify CSS:   npm i --save-dev gulp-cssmin
-// minify JS:    npm i --save-dev gulp-minify
+// minify CSS:   npm i gulp-cssmin --save-dev
+// minify JS:    npm i gulp-minify --save-dev
 // sass:         npm i gulp-sass --save-dev
-// image minify: npm i --save-dev gulp-image
+// image minify: npm i gulp-image --save-dev
 // browser sync: npm i browser-sync --save-dev
+// pug =         npm i gulp-pug --save-dev
 
 var gulp = require('gulp'),
     htmlminify = require("gulp-html-minify"),
@@ -15,7 +15,8 @@ var gulp = require('gulp'),
     minify = require('gulp-minify'),
     browserSync = require('browser-sync'),
     sass = require('gulp-sass'),
-    image = require('gulp-image');
+    image = require('gulp-image'),
+    pug = require('gulp-pug');
 //command for minify html,css,js ---  gulp min
 gulp.task('min', function () {
 
@@ -58,6 +59,14 @@ gulp.task('sass', function () {
         .pipe(gulp.dest('src'))
         .pipe(browserSync.reload({stream: true}))
 });
+//gulp pug
+gulp.task('pug', function() {
+    return gulp.src('src/**/*.pug')
+        .pipe(pug({pretty:true}))
+        .pipe(gulp.dest('src'))
+        .pipe(browserSync.reload({stream: true}))
+});
+
 gulp.task('browser-sync', function () {
     browserSync({
         server: {
@@ -67,10 +76,11 @@ gulp.task('browser-sync', function () {
     });
 });
 //gulp watch
-gulp.task('watch', ['browser-sync', 'sass'], function () {
+gulp.task('watch', ['browser-sync', 'sass', 'pug'], function () {
     gulp.watch('src/**/*.scss', ['sass']);
     gulp.watch('src/*.html', browserSync.reload);
     gulp.watch('src/*.html', browserSync.reload);
     gulp.watch('src/**/*.css', browserSync.reload);
     gulp.watch('src/**/*.js', browserSync.reload);
+    gulp.watch('src/**/*.pug', ['pug']);
 });
