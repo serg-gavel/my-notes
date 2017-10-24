@@ -1,5 +1,5 @@
 ###### [`Вернуться назад к выбору директории`](https://github.com/serg-gavel/my-notes)
-![alt-текст](https://github.com/serg-gavel/my-notes/blob/master/babel/babel.jpg "babel.jpg")
+![alt-текст](https://github.com/serg-gavel/my-notes/blob/master/babel/babel.jpg "babel1.jpg")
 >`Babel` - это инструмент который позволяет транспилировать код.  
 Транспиляция это процесс перевода кода с одного языка в другой.
 ##### Содержание:    
