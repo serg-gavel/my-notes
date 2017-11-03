@@ -1,4 +1,4 @@
-![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)<a href="https://twitter.com/intent/follow?screen_name=Serega_Gavel">
+![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)<a href="https://twitter.com/intent/follow?screen_name=Serega_Gavel">
         <img src="https://img.shields.io/twitter/follow/Serega_Gavel.svg?style=social"
             alt="follow on Twitter"></a>
 ![лого](https://github.com/serg-gavel/my-notes/blob/master/main-logo.jpg "main-logo.jpg")
