@@ -1,4 +1,6 @@
-[![Instagram API](https://img.shields.io/badge/Instagram-API-blue.svg?style=flat-square)]() [![Manual](https://img.shields.io/badge/Simple-advices-lightgrey.svg?style=flat-square)]() [![Twitter Follow](https://img.shields.io/twitter/follow/Serega_Gavel.svg?style=social&label=Follow)]()
+[![Instagram API](https://img.shields.io/badge/Instagram-API-blue.svg?style=flat-square)]() [![Manual](https://img.shields.io/badge/Simple-advices-lightgrey.svg?style=flat-square)]() <a href="https://twitter.com/intent/follow?screen_name=Serega_Gavel">
+        <img src="https://img.shields.io/twitter/follow/Serega_Gavel.svg?style=social"
+            alt="follow on Twitter"></a>
 ### Receiving an access_token
 ##### In order to receive an access_token, you must do the following:
 ##### 1. Direct the user to our authorization url.
