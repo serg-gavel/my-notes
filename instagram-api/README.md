@@ -1,3 +1,4 @@
+[![Instagram API](https://img.shields.io/badge/Instagram-API-blue.svg?style=flat-square)]() [![Manual](https://img.shields.io/badge/Simple-advices-lightgrey.svg?style=flat-square)]()
 ### Receiving an access_token
 ##### In order to receive an access_token, you must do the following:
 ##### 1. Direct the user to our authorization url.
