@@ -1,0 +1,34 @@
+All settings correct for using Composer Unable to write keys.dev.pub to: /home/ubuntu/.composer
+
+Step 1: just go to your Project Directory and run a Command sudo su
+
+Step 2: then Try to install the Composer using The Following Command
+
+curl -sS https://getcomposer.org/installer | php
+
+potom dvigaem etu huetu
+
+mv composer.phar /usr/local/bin/composer
+
+sudo apt-get install php-zip
+
+eJust adding to the accepted answer...
+
+In case you are executing the commands directly on the terminal (in which case the path will remain available till the terminal window or tab closes)
+
+If you mess up the earlier path, you need to open and close the terminal window (or tab)
+
+Example:
+
+first execute (mess up the path in someway)
+
+PATH="test"
+then execute
+
+PATH="$PATH:$HOME/.config/composer/vendor/bin"
+You will still get the error Now close the terminal window or tab and reopen it and execute
+
+PATH="$PATH:$HOME/.config/composer/vendor/bin"
+And the error should be gone!
+
+
