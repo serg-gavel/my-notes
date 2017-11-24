@@ -1,0 +1,13 @@
+1.Removing yarn binaries manually:
+rm -f /usr/local/bin/yarnpkg
+rm -f /usr/local/bin/yarn
+2.Remove yarn cache:
+rm -rf ${HOME}/.yarn
+3.If you have the following in your .zshrc or .bash_profile, remove it:
+export PATH="$PATH:`yarn global bin`"
+4.Install via curl:
+curl -o- -L https://yarnpkg.com/install.sh | bash
+5.Make sure there is the following line in your .zshrc or .bash_profile:
+export PATH="$HOME/.yarn/bin:$PATH"
+
+Now if you try to run yarn --version, you should get the latest stable version.
