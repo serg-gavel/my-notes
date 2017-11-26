@@ -1,0 +1,10 @@
+1.Emmet
+	1.1 Emmet snippets compability
+2.Autosave onchange
+3. Atom Beautify
+4. Git-Plus (ctrl + shift + h)
+5. Linter (all)
+6. Highlight Selected
+7. File Icons
+8. Pigments
+9. Minimap
