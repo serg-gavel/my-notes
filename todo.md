@@ -3,3 +3,8 @@
 ###### 3. [![Vuex](https://img.shields.io/badge/Vue-AwesomeTutorial-green.svg)](https://www.youtube.com/playlist?list=PLwAKR305CRO_1yAao-8aZiQnBqJeyng4O)
 ###### 4. [![Node.js](https://img.shields.io/badge/Node.js-Tutorials-brightgreen.svg)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 ###### 5. [![REST API Tutorials (Node, Express & Mongo)](https://img.shields.io/badge/REST_API_(Node,_Express_&Mongo)-Tutorials-lightgrey.svg)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jBcybHMTIia56aV21o2cZ8)
+
+
+
+todo section:
+1. need to install pug in vue.js
