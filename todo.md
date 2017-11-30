@@ -8,3 +8,4 @@
 
 todo section:
 1. need to install pug in vue.js
+2. 
