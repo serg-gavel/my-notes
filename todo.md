@@ -9,3 +9,4 @@
 todo section:
 1. URL_API
 2. Mutations
+3. VueApp
