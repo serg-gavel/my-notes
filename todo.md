@@ -10,5 +10,5 @@ todo section:
 1. URL_API
 2. Mutations
 3. VueApp
-4. WbSockets
-5. 
+4. WebSockets
+5. React
