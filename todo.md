@@ -4,9 +4,10 @@
 ###### 4. [![Node.js](https://img.shields.io/badge/Node.js-Tutorials-brightgreen.svg)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 ###### 5. [![REST API Tutorials (Node, Express & Mongo)](https://img.shields.io/badge/REST_API_(Node,_Express_&Mongo)-Tutorials-lightgrey.svg)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jBcybHMTIia56aV21o2cZ8)
 
+todo__primary:
+1. kn site
 
-
-todo section:
+todo__secondary:
 1. URL_API
 2. Mutations
 3. VueApp
