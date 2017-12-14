@@ -13,3 +13,4 @@ todo__secondary:
 3. VueApp
 4. WebSockets
 5. React
+6. Vue.js & Firestore App
