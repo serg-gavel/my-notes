@@ -14,6 +14,3 @@ todo__secondary:
 4. WebSockets
 5. React
 6. Vue.js & Firestore App
-
-
-## New Year 2018 Woo hoo!
