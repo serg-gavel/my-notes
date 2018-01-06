@@ -14,3 +14,4 @@ todo__secondary:
 4. WebSockets
 5. React
 6. Vue.js & Firestore App
+7. Supersecret project 
