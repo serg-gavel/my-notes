@@ -5,7 +5,6 @@
 ###### 5. [![REST API Tutorials (Node, Express & Mongo)](https://img.shields.io/badge/REST_API_(Node,_Express_&Mongo)-Tutorials-lightgrey.svg)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jBcybHMTIia56aV21o2cZ8)
 
 todo__primary:
-1. kn site
 
 todo__secondary:
 1. URL_API
@@ -14,4 +13,3 @@ todo__secondary:
 4. WebSockets
 5. React
 6. Vue.js & Firestore App
-7. Supersecret project 
