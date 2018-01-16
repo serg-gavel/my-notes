@@ -8,6 +8,7 @@ For example, let's compile our `<style>` tag with SASS:
 
 ``` bash
 npm install sass-loader node-sass --save-dev
+yarn add sass-loader node-sass
 ```
 
 ``` html
@@ -91,6 +92,7 @@ Processing templates is a little different, because most webpack template loader
 
 ``` bash
 npm install pug --save-dev
+yarn add pug
 ```
 
 ``` html
