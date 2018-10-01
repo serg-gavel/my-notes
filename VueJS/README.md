@@ -115,3 +115,4 @@ You can use [webpack loader requests](https://webpack.github.io/docs/loaders.htm
 ```
 
 However, note this makes your Vue component webpack-specific and not compatible with Browserify and [vueify](https://github.com/vuejs/vueify). **If you intend to ship your Vue component as a reusable 3rd-party component, avoid using this syntax.**
+yo!
