@@ -8,3 +8,6 @@
 ##### 3. `babel`содержит в себе руководство по использованию `Babel` [перейти в директорию](https://github.com/serg-gavel/my-notes/tree/master/babel)
 ##### 4. `gulp`содержит в себе настройки `Gulp` [перейти в директорию](https://github.com/serg-gavel/my-notes/tree/master/gulp)
 ##### 5. `yarn`содержит в себе настройки `Yarn` [перейти в директорию](https://github.com/serg-gavel/my-notes/tree/master/yarn)
+
+
+##### 13.01.2019 time to resume
