@@ -11,4 +11,4 @@
 
 
 ##### 13.01.2019 time to resume
-![](https://media1.tenor.com/images/67b871908254e99e144f1b8bd8d06a97/tenor.gif?itemid=5218204) 
+![](https://github.com/serg-gavel/my-notes/blob/master/just-do-it.gif) 
