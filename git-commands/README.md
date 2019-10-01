@@ -22,10 +22,7 @@
 используя `git checkout`.  
   Например: **`git clone https://github.com/serg-gavel/my-notes`**  
 
-`git clone https://github.com/serg-gavel/project.git`
-
-Private репозиторий:
-`git clone https://serg-gavel:mygithubpassword@github.com/serg-gavel/project.git`
+  Private репозиторий: **`git clone https://serg-gavel:mygithubpassword@github.com/serg-gavel/project.git`**
    
 
 <a name="basic-commands"><h2>Основные команды Git</h2></a>
